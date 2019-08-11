@@ -41,3 +41,4 @@ TODO
     * Wide40
     * 40wide
     * AB50
+* Check [GMK Paperwork](https://thevankeyboards.com/products/paperwork) compatibility for all potential layouts.

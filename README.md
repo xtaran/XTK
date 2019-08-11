@@ -13,6 +13,15 @@ Incentives
 * Should probably support both, single or split spacebar.
 * Running free software ([QMK](https://qmk.fm/)) as firmware.
 
+### Dropped requirements
+
+* [GMK Paperwork](https://thevankeyboards.com/products/paperwork)
+  compatibility
+    * Misses the bracket and backslash/pipe keys anyway.
+    * The HHKB variant comes close, but there's no 2u Shift in GMK
+      Paperwork included. Might be compensated with a 1u shift plus
+      another 1u key.
+
 Intended features
 -----------------
 
@@ -41,4 +50,3 @@ TODO
     * Wide40
     * 40wide
     * AB50
-* Check [GMK Paperwork](https://thevankeyboards.com/products/paperwork) compatibility for all potential layouts.

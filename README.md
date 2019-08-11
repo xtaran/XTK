@@ -28,6 +28,13 @@ Intended features
 * Kailh hotswap sockets with PCB-mount support — if this is every
   growing out of the handwired state.
 
+Layouts
+-------
+
+All the JSON files are made with and meant for the [online Keyboard
+Layout Editor](http://www.keyboard-layout-editor.com/). The images are
+made with it, too.
+
 Inspirations
 ------------
 

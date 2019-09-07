@@ -90,6 +90,7 @@ key, e.g. a function key like the HHKB, because 2u Shift key caps are
 hard to find:
 
 ![XTHH49](Images/XTHH49.png)
+![XTHH49 with Laser SA](Images/XTHH49.Laser-SA.png)
 
 
 Intended features

@@ -145,12 +145,12 @@ Intended features
   growing out of the handwired state.
 
 
-Layouts
--------
+Layout Files
+------------
 
-All the JSON files are made with and meant for the [online Keyboard
-Layout Editor](http://www.keyboard-layout-editor.com/). The images are
-made with it, too.
+All the [JSON files](Layouts/) are made with and meant for the [online
+Keyboard Layout Editor](http://www.keyboard-layout-editor.com/). The
+images are made with it, too.
 
 To generate the files needed to produce the plates, you might want to
 use [Will Steven's Online Plate & Case

@@ -33,9 +33,15 @@ I started with a 60% layout and wanted only four rows like 40%, but
 with all columns of a 60% and dedicated cursor keys. The latter caused
 the design to gain that additional column typical for 65% keyboards.
 
-### XT51
+### XTK
 
-53 Keys = 51%; 15.5u width
+* 15.5u width
+* 52 to 56 keys (the possible layouts are dubbed XT50 to XT54 below)
+* All these layouts should be doable with one plate and PCB design.
+
+#### XT51
+
+* 53 Keys = 51%
 
 Was the first design I came up with as it's most close to a 65%
 design. It has a standard 6.25 spacebar.
@@ -45,9 +51,9 @@ design. It has a standard 6.25 spacebar.
 
 (Note: GMK Nines does not have all these keys.)
 
-### XT53
+#### XT53
 
-55 Keys = 53%; 15.5u width
+* 55 Keys = 53%
 
 The same again, just with dedicated Lower and Raise keys and split
 space:
@@ -55,9 +61,10 @@ space:
 ![XT53](Images/XT53.png)
 ![XT53 with Signature Plastics PBT DSA keys in OAL and WAN](Images/XT53.SP-PBT-DSA-OAL-WAN.png)
 
-### XT50 ISO / XT52 ISO
+#### XT50 ISO / XT52 ISO
 
-52 Keys = 50%; 54 Keys = 52%; 15.5u width
+* 52 Keys = 50% (single space)
+* 54 Keys = 52% (split space)
 
 XT51 and XT53 could actually support an ISO Enter key as by
 coincidence Backspace and Enter together already have the exact size
@@ -67,23 +74,39 @@ and offern an ISO Enter, too:
 ![XT50 ISO](Images/XT50.ISO.png)
 ![XT52 ISO](Images/XT52.ISO.png)
 
-### XT54
+### XTW
 
-56 Keys = 54%; 15.75u width
+* 15.75u width
+* So far only one layout (XT54) and no ISO support possible. But
+  theoretically it should also be doable with a single
+  spacebar. Haven't checked, though.
+* Actually a superset of the XTHH/XTHH48 layout shown (see below).
+
+#### XT54
+
+* 56 Keys = 54%
 
 Having seen [Zambumon’s
 Tokyo66](https://zambumon.files.wordpress.com/2018/09/nautilus_nightmares_tokyo66_1.png)
 on the [Nautilus
 Nightmares](https://zambumon.com/nautilus-nightmares/) page, I
 couldn’t stop thinking how an arrow up key (and the according keys
-below) between /? and the right Shift key:
+below) between /? and the right Shift key. This though needs 0.25u
+wider Backspace and Enter keys and hence a different plate and case.
 
 ![XT54](Images/XT54.png)
 ![XT54 with GMK Terminal](Images/XT54.GMK-Terminal.png)
 
-### XTHH48
+### XTHH
 
-50 Keys = 48%; 14.75u width
+* 14.75u width
+* HHKB-style bottom row with 1u blocks (the possible layouts are
+  dubbed XTHH49 and XTHH49 below)
+* All these layouts should be doable with one plate, case and PCB design.
+
+#### XTHH48
+
+* 50 Keys = 48%
 
 But actually that arrow keys position works nicer with a HHKB style
 setup as the right arrow key is on the edge of the key space, so I
@@ -92,9 +115,9 @@ also made a HHKB style design without that additional key column:
 ![XTHH48](Images/XTHH48.png)
 ![XTHH48 with GMK Terminal](Images/XTHH48.GMK-Terminal.png)
 
-### XTHH49
+#### XTHH49
 
-51 Keys = 49%; 14.75u width
+* 51 Keys = 49%
 
 And as a variant, here’s also a 1u right Shift plus an additional 1u
 key, e.g. a function key like the HHKB, because 2u Shift key caps are

@@ -52,7 +52,7 @@ Inspirations
 
 ### 40% Keyboards With Dedicated Cursor Keys
 
-* [TVK MiniVan](https://thevankeyboards.com/pages/minivan)
+* [TheVan Keyboard's MiniVan](https://thevankeyboards.com/pages/minivan)
 
 Similar Keyboards
 -----------------

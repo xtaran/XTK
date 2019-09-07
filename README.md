@@ -1,5 +1,5 @@
-Yet Unnamed 55% Keyboard Layout
-===============================
+XTKb: 45% and 50% Keyboard Designs
+==================================
 
 Incentives
 ----------
@@ -50,10 +50,7 @@ Inspirations
 
 * Close, but without the additional row and unfortunately wireless (and sold out): [DDmicro](https://kbdfans.com/blogs/news/ddmicro-wireless-keyboard)
 
-TODO
-----
+Thanks
+------
 
-* Find a nice name. Ideas:
-    * Wide40
-    * 40wide
-    * AB50
+* Ermel for the idea of the project name "XTKb".

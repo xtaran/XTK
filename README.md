@@ -91,6 +91,7 @@ Intended features
 * Kailh hotswap sockets with PCB-mount support — if this is every
   growing out of the handwired state.
 
+
 Layouts
 -------
 
@@ -101,6 +102,7 @@ made with it, too.
 To generate the files needed to produce the plates, you might want to
 use [Will Steven's Online Plate & Case
 Builder](http://builder.swillkb.com/).
+
 
 Inspirations
 ------------
@@ -114,6 +116,7 @@ Inspirations
 ### 40% Keyboards With Dedicated Cursor Keys
 
 * [TheVan Keyboard's MiniVan](https://thevankeyboards.com/pages/minivan)
+
 
 Similar Keyboards
 -----------------

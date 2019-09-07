@@ -41,8 +41,10 @@ the design to gain that additional column typical for 65% keyboards.
 Was the first design I came up with as it's most close to a 65%
 design. It has a standard 6.25 spacebar.
 
-![XT51: Single Spacebar](Images/XT51.png)
-![XT51: Single Spacebar](Images/XT51.GMK-Nines.png)
+![XT51](Images/XT51.png)
+![XT51 with GMK Nines](Images/XT51.GMK-Nines.png)
+
+(Note: GMK Nines does not have all these keys.)
 
 ### XT53
 
@@ -51,8 +53,8 @@ design. It has a standard 6.25 spacebar.
 The same again, just with dedicated Lower and Raise keys and split
 space:
 
-![XT53: Split Spacebar + Raise/Lower](Images/XT53.png)
-![XT53: Split Spacebar + Raise/Lower](Images/XT53.SP-PBT-DSA-OAL-WAN.png)
+![XT53](Images/XT53.png)
+![XT53 with Signature Plastics PBT DSA keys in OAL and WAN](Images/XT53.SP-PBT-DSA-OAL-WAN.png)
 
 ### XT54
 
@@ -65,8 +67,8 @@ Nightmares](https://zambumon.com/nautilus-nightmares/) page, I
 couldn’t stop thinking how an arrow up key (and the according keys
 below) between /? and the right Shift key:
 
-![XT54: Up key left of right Shift key](Images/XT54.png)
-![XT54: Up key left of right Shift key](Images/XT54.GMK-Terminal.png)
+![XT54](Images/XT54.png)
+![XT54 with GMK Terminal](Images/XT54.GMK-Terminal.png)
 
 ### XTHH48
 
@@ -76,8 +78,8 @@ But actually that arrow keys position works nicer with a HHKB style
 setup as the right arrow key is on the edge of the key space, so I
 also made a HHKB style design without that additional key column:
 
-![XTHH48: HHKB-style](Images/XTHH48.png)
-![XTHH48: HHKB-style](Images/XTHH48.GMK-Terminal.png)
+![XTHH48](Images/XTHH48.png)
+![XTHH48 with GMK Terminal](Images/XTHH48.GMK-Terminal.png)
 
 ### XTHH49
 
@@ -87,7 +89,7 @@ And as a variant, here’s also a 1u right Shift plus an additional 1u
 key, e.g. a function key like the HHKB, because 2u Shift key caps are
 hard to find:
 
-![XTHH49: HHKB-style with with 1u roght Shift key](Images/XTHH49.png)
+![XTHH49](Images/XTHH49.png)
 
 
 Intended features

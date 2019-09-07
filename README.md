@@ -42,6 +42,7 @@ Was the first design I came up with as it's most close to a 65%
 design. It has a standard 6.25 spacebar.
 
 ![XT51: Single Spacebar](Images/XT51.png)
+![XT51: Single Spacebar](Images/XT51.GMK-Nines.png)
 
 ### XT53
 
@@ -51,6 +52,7 @@ The same again, just with dedicated Lower and Raise keys and split
 space:
 
 ![XT53: Split Spacebar + Raise/Lower](Images/XT53.png)
+![XT53: Split Spacebar + Raise/Lower](Images/XT53.SP-PBT-DSA-OAL-WAN.png)
 
 ### XT54
 

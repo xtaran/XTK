@@ -1,5 +1,5 @@
-XTKb: 45% and 50% Keyboard Designs
-==================================
+XTKb: 45% to 55% Keyboard Designs
+=================================
 
 (short for "XTaran's Keyboards")
 
@@ -23,6 +23,53 @@ Incentives
     * The HHKB variant comes close, but there's no 2u Shift in GMK
       Paperwork included. Might be compensated with a 1u shift plus
       another 1u key.
+
+
+The Designs
+-----------
+
+I started with a 60% layout and wanted only four rows like 40%, but with all columns of a 60% and dedicated cursor keys. The latter caused the design to gain that additional column typical for 65% keyboards.
+
+### XT51
+
+53 Keys = 51%
+
+Was the first design I came up with as it's most close to a 65% design. It has a standard 6.25 spacebar.
+
+![XT51: Single Spacebar](keyboard-layout.single-spacebar.png)
+
+### XT53
+
+55 Keys = 53%
+
+The same again, just with dedicated Lower and Raise keys and split space:
+
+![XT53: Split Spacebar + Raise/Lower](keyboard-layout.split-space.png)
+
+### XT54
+
+56 Keys = 54%
+
+Having seen [Zambumon’s Tokyo66](https://zambumon.files.wordpress.com/2018/09/nautilus_nightmares_tokyo66_1.png) on the [Nautilus Nightmares](https://zambumon.com/nautilus-nightmares/) page, I couldn’t stop thinking how an arrow up key (and the according keys below) between /? and the right Shift key:
+
+![XT54: Up key left of right Shift key](keyboard-layout.up-left-of-shift-split-space.png)
+
+### XTHH48
+
+50 Keys = 48%
+
+But actually that arrow keys position works nicer with a HHKB style setup as the right arrow key is on the edge of the key space, so I also made a HHKB style design without that additional key column:
+
+![XTHH48: HHKB-style](keyboard-layout.hhkb-split-space.png)
+
+### XTHH49
+
+51 Keys = 49%
+
+And as a variant, here’s also a 1u right Shift plus an additional 1u key, e.g. a function key like the HHKB, because 2u Shift key caps are hard to find:
+
+![XTHH49: HHKB-style with with 1u roght Shift key](keyboard-layout.hhkb-1u-shift-split-space.png)
+
 
 Intended features
 -----------------

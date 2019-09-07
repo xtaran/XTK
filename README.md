@@ -57,6 +57,8 @@ space:
 
 ### XT50 ISO / XT52 ISO
 
+52 Keys = 50%; 54 Keys = 52%; 15.5u width
+
 XT51 and XT53 could actually support an ISO Enter key as by
 coincidence Backspace and Enter together already have the exact size
 of an ISO Enter key. So let's move Backspace to where the Home key was

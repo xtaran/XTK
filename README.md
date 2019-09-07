@@ -36,7 +36,7 @@ the design to gain that additional column typical for 65% keyboards.
 
 ### XT51
 
-53 Keys = 51%
+53 Keys = 51%; 15.5u width
 
 Was the first design I came up with as it's most close to a 65%
 design. It has a standard 6.25 spacebar.
@@ -45,7 +45,7 @@ design. It has a standard 6.25 spacebar.
 
 ### XT53
 
-55 Keys = 53%
+55 Keys = 53%; 15.5u width
 
 The same again, just with dedicated Lower and Raise keys and split
 space:
@@ -54,7 +54,7 @@ space:
 
 ### XT54
 
-56 Keys = 54%
+56 Keys = 54%; 15.75u width
 
 Having seen [Zambumon’s
 Tokyo66](https://zambumon.files.wordpress.com/2018/09/nautilus_nightmares_tokyo66_1.png)
@@ -67,7 +67,7 @@ below) between /? and the right Shift key:
 
 ### XTHH48
 
-50 Keys = 48%
+50 Keys = 48%; 14.75u width
 
 But actually that arrow keys position works nicer with a HHKB style
 setup as the right arrow key is on the edge of the key space, so I
@@ -77,7 +77,7 @@ also made a HHKB style design without that additional key column:
 
 ### XTHH49
 
-51 Keys = 49%
+51 Keys = 49%; 14.75u width
 
 And as a variant, here’s also a 1u right Shift plus an additional 1u
 key, e.g. a function key like the HHKB, because 2u Shift key caps are

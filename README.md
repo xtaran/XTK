@@ -65,6 +65,8 @@ below) between /? and the right Shift key:
 
 ![XT54: Up key left of right Shift key](Images/XT54.png)
 
+![XT54: Up key left of right Shift key](Images/XT54.GMK-Terminal.png)
+
 ### XTHH48
 
 50 Keys = 48%; 14.75u width
@@ -74,6 +76,7 @@ setup as the right arrow key is on the edge of the key space, so I
 also made a HHKB style design without that additional key column:
 
 ![XTHH48: HHKB-style](Images/XTHH48.png)
+![XTHH48: HHKB-style](Images/XTHH48.GMK-Terminal.png)
 
 ### XTHH49
 

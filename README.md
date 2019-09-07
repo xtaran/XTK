@@ -41,7 +41,7 @@ the design to gain that additional column typical for 65% keyboards.
 Was the first design I came up with as it's most close to a 65%
 design. It has a standard 6.25 spacebar.
 
-![XT51: Single Spacebar](keyboard-layout.single-spacebar.png)
+![XT51: Single Spacebar](Images/XT51.png)
 
 ### XT53
 
@@ -50,7 +50,7 @@ design. It has a standard 6.25 spacebar.
 The same again, just with dedicated Lower and Raise keys and split
 space:
 
-![XT53: Split Spacebar + Raise/Lower](keyboard-layout.split-space.png)
+![XT53: Split Spacebar + Raise/Lower](Images/XT53.png)
 
 ### XT54
 
@@ -63,7 +63,7 @@ Nightmares](https://zambumon.com/nautilus-nightmares/) page, I
 couldn’t stop thinking how an arrow up key (and the according keys
 below) between /? and the right Shift key:
 
-![XT54: Up key left of right Shift key](keyboard-layout.up-left-of-shift-split-space.png)
+![XT54: Up key left of right Shift key](Images/XT54.png)
 
 ### XTHH48
 
@@ -73,7 +73,7 @@ But actually that arrow keys position works nicer with a HHKB style
 setup as the right arrow key is on the edge of the key space, so I
 also made a HHKB style design without that additional key column:
 
-![XTHH48: HHKB-style](keyboard-layout.hhkb-split-space.png)
+![XTHH48: HHKB-style](Images/XTHH48.png)
 
 ### XTHH49
 
@@ -83,7 +83,7 @@ And as a variant, here’s also a 1u right Shift plus an additional 1u
 key, e.g. a function key like the HHKB, because 2u Shift key caps are
 hard to find:
 
-![XTHH49: HHKB-style with with 1u roght Shift key](keyboard-layout.hhkb-1u-shift-split-space.png)
+![XTHH49: HHKB-style with with 1u roght Shift key](Images/XTHH49.png)
 
 
 Intended features

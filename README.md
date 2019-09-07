@@ -64,7 +64,6 @@ couldn’t stop thinking how an arrow up key (and the according keys
 below) between /? and the right Shift key:
 
 ![XT54: Up key left of right Shift key](Images/XT54.png)
-
 ![XT54: Up key left of right Shift key](Images/XT54.GMK-Terminal.png)
 
 ### XTHH48

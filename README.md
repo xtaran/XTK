@@ -92,6 +92,8 @@ hard to find:
 ![XTHH49](Images/XTHH49.png)
 ![XTHH49 with Laser SA](Images/XTHH49.Laser-SA.png)
 
+(Note: The colors used in the Laser SA render are just guessed.)
+
 
 Intended features
 -----------------

@@ -69,7 +69,7 @@ space:
 XT51 and XT53 could actually support an ISO Enter key as by
 coincidence Backspace and Enter together already have the exact size
 of an ISO Enter key. So let's move Backspace to where the Home key was
-and offern an ISO Enter, too:
+and offer an ISO Enter, too:
 
 ![XT50 ISO](Images/XT50.ISO.png)
 ![XT52 ISO](Images/XT52.ISO.png)

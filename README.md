@@ -86,6 +86,7 @@ and offer an ISO Enter, too:
 
 ### XTW
 
+* W = wide
 * 15.75u width
 * So far only one layout (XT54). Theoretically there are further
   layout variants possible:
@@ -115,6 +116,7 @@ wider Backspace and Enter keys and hence a different plate and case.
 
 ### XTHH
 
+* HH = Happy Hacking
 * 14.75u width
 * HHKB-style bottom row with 1u blocks (the possible layouts are
   dubbed XTHH49 and XTHH49 below)

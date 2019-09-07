@@ -1,7 +1,8 @@
 XTKb: 45% to 55% Keyboard Designs
 =================================
 
-(short for "XTaran's Keyboards")
+("XTKb" is short for "XTaran's Keyboards")
+
 
 Incentives
 ----------

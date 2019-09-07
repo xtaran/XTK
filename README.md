@@ -7,7 +7,7 @@ XTKb: 45% to 55% Keyboard Designs
 Incentives
 ----------
 
-* Four rows of keys only (40% style)
+* Four rows of keys only (40% style): R2-R5
 * Though all common columns including brackets, single/double quotes,
   backslash/pipe. → more 50% than 40%
 * Dedicated arrow keys in turned-over-T layout.
@@ -24,6 +24,7 @@ Incentives
     * The HHKB variant comes close, but there's no 2u Shift in GMK
       Paperwork included. Might be compensated with a 1u shift plus
       another 1u key.
+* ISO support — doesn't really work with Backspace on R2.
 
 
 The Designs

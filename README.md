@@ -44,7 +44,7 @@ Inspirations
 * HHKB variant inspired by the
   [Tokyo66](https://zambumon.files.wordpress.com/2018/09/nautilus_nightmares_tokyo66_1.png?w=788&h=525)
   (via [Nautilus
-  Nightmares](https://zambumon.com/nautilus-nightmares/)
+  Nightmares](https://zambumon.com/nautilus-nightmares/))
 
 ### Other similar keyboards
 

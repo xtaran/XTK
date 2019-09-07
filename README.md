@@ -87,10 +87,16 @@ and offer an ISO Enter, too:
 ### XTW
 
 * 15.75u width
-* So far only one layout (XT54) and no ISO support possible. But
-  theoretically it should also be doable with a single
-  spacebar. Haven't checked, though.
-* Actually a superset of the XTHH/XTHH48 layout shown (see below).
+* So far only one layout (XT54). Theoretically there are further
+  layout variants possible:
+    * It should also be doable with a single spacebar. Haven't
+      checked, though.
+    * ISO support is theoretically possible, but would need 1.25u
+      Home/Backspace and PageUp keys which surely would look rather
+      ugly, not to mention that a 1.25u PageUp key cap is rather
+      difficult to find.
+* Actually a superset of the XTHH/XTHH48 layout shown (see below) if
+  you consider the Ctrl/Win/Alt keys to be rather flexible in width.
 
 #### XT54
 

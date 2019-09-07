@@ -24,7 +24,6 @@ Incentives
     * The HHKB variant comes close, but there's no 2u Shift in GMK
       Paperwork included. Might be compensated with a 1u shift plus
       another 1u key.
-* ISO support — doesn't really work with Backspace on R2.
 
 
 The Designs
@@ -55,6 +54,16 @@ space:
 
 ![XT53](Images/XT53.png)
 ![XT53 with Signature Plastics PBT DSA keys in OAL and WAN](Images/XT53.SP-PBT-DSA-OAL-WAN.png)
+
+### XT50 ISO / XT52 ISO
+
+XT51 and XT53 could actually support an ISO Enter key as by
+coincidence Backspace and Enter together already have the exact size
+of an ISO Enter key. So let's move Backspace to where the Home key was
+and offern an ISO Enter, too:
+
+![XT50 ISO](Images/XT50.ISO.png)
+![XT52 ISO](Images/XT52.ISO.png)
 
 ### XT54
 

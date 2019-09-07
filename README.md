@@ -30,9 +30,9 @@ Incentives
 * [GMK Paperwork](https://thevankeyboards.com/products/paperwork)
   compatibility
     * Misses the bracket and backslash/pipe keys anyway.
-    * The HHKB variant comes close, but there's no 2u Shift in GMK
-      Paperwork included. Might be compensated with a 1u shift plus
-      another 1u key.
+    * The HHKB variant (XTHH) comes close, but there's no 2u Shift in
+      GMK Paperwork included. Might be compensated with a 1u shift
+      plus another 1u key (as in the XTHH49 layout).
 
 
 The Designs

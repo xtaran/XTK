@@ -58,7 +58,8 @@ design. It has a standard 6.25 spacebar.
 ![XT51](Images/XT51.png)
 ![XT51 with GMK Nines](Images/XT51.GMK-Nines.png)
 
-(Note: GMK Nines does not have all these keys.)
+(Note: [GMK Nines](https://kono.store/products/gmk-nines-keycap-set)
+does not have all these keys.)
 
 #### XT53
 

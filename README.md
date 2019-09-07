@@ -104,6 +104,9 @@ To generate the files needed to produce the plates, you might want to
 use [Will Steven's Online Plate & Case
 Builder](http://builder.swillkb.com/).
 
+[Colored Layouts](Layouts/) rendered with [KLE
+Render](https://kle-render.herokuapp.com/).
+
 
 Inspirations
 ------------

@@ -37,6 +37,10 @@ All the JSON files are made with and meant for the [online Keyboard
 Layout Editor](http://www.keyboard-layout-editor.com/). The images are
 made with it, too.
 
+To generate the files needed to produce the plates, you might want to
+use [Will Steven's Online Plate & Case
+Builder](http://builder.swillkb.com/).
+
 Inspirations
 ------------
 

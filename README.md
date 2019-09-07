@@ -15,6 +15,15 @@ Incentives
   Home/PageUp/PageDown/End.
 * Should probably support both, single or split spacebar.
 * Running free software ([QMK](https://qmk.fm/)) as firmware.
+* Bezel-less sandwich case design with standoffs between the switches,
+  similar to the
+  [Zlant](https://www.1upkeyboards.com/shop/keyboard-kits/diy-40-kits/zlant-40-keyboard-kit/)
+  ([see the plate and bottom in this
+  picture](https://www.1upkeyboards.com/wp-content/uploads/2018/11/Keyboard-Ziptyze-Zlant-01.jpg))
+  or the [Candybar
+  Standard](https://thekey.company/collections/candybar/products/candybar-standard)
+  ([see this
+  picture](https://cdn.shopify.com/s/files/1/1679/2319/products/standard.png)).
 
 ### Dropped requirements
 
@@ -163,6 +172,14 @@ Inspirations
 ### 40% Keyboards With Dedicated Cursor Keys
 
 * [TheVan Keyboard's MiniVan](https://thevankeyboards.com/pages/minivan)
+* [TKC CandyBar](https://thekey.company/collections/candybar) (40%
+  plus number block; so a 50% to 55% layout, too, but different
+  ideas; ordered one btw. :-)
+
+### Other 40% Keyboards
+
+* [Zlant](https://www.1upkeyboards.com/shop/keyboard-kits/diy-40-kits/zlant-40-keyboard-kit/)
+  (bezel-less design and standoff position)
 
 
 Similar Keyboards
@@ -174,9 +191,6 @@ Similar Keyboards
   Layout](https://www.keebtalk.com/t/slim-55-layout/6771) (very
   similar in size, but with different incentives; learned of it only
   after I made my designs initially)
-* [TKC CandyBar](https://thekey.company/collections/candybar) (40%
-  plus number block; so a 50% to 55% layout, too, but very different
-  ideas; ordered one)
 * [DDmicro](https://kbdfans.com/blogs/news/ddmicro-wireless-keyboard)
   (a 40% with potentially dedicated cursor keys, and hence close, but
   without the additional column and unfortunately wireless — and sold

@@ -1,7 +1,7 @@
-XTKb: 45% to 55% Keyboard Designs
-=================================
+XTK and Friends: 45% to 55% Keyboard Designs
+============================================
 
-("XTKb" is short for "XTaran's Keyboards")
+("XTK" is short for "XTaran's Keyboards")
 
 
 Incentives
@@ -220,7 +220,12 @@ of my design.
 Thanks
 ------
 
-* Ermel for the idea of the project name "XTKb".
+* Ermel for helping on my way to find a proper project name. The name
+  under which I initially published this, "XTKb", was his idea (though
+  with different capitalization) after I wasn't happy that my idea
+  "XTK" was already in use quite often. At some point I though decided
+  that I'll use "XTK" anyway as "X Tool Kit" is definitely a different
+  type of thing, so after a while I switched to this initial idea.
 * Stephan for reminding me of the DDmicro.
 
 

@@ -44,7 +44,8 @@ the design to gain that additional column typical for 65% keyboards.
 
 ### XTK
 
-* 15.5u width
+* 15.5u width (a common 60% has 15u width, a common 65% has 16u width,
+  most 40% have between 12u and 13u width)
 * 52 to 56 keys (the possible layouts are dubbed XT50 to XT54 below)
 * All these layouts should be doable with one plate and PCB design.
 

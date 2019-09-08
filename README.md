@@ -1,7 +1,7 @@
 XTK and Friends: 45% to 55% Keyboard Designs
 ============================================
 
-("XTK" is short for "XTaran's Keyboards")
+("XTK" is short for "XTaran's Keyboard(s)")
 
 
 Incentives

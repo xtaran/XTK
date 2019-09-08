@@ -32,7 +32,7 @@ Incentives
     * Misses the bracket and backslash/pipe keys anyway.
     * The HHKB variant (XTHH) comes close, but there's no 2u Shift in
       GMK Paperwork included. Might be compensated with a 1u Shift
-      plus another 1u key (as in the XTHH49 layout).
+      plus another 1u key (as in the XTHH 49 layout).
 
 
 The Designs

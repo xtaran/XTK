@@ -46,50 +46,51 @@ the design to gain that additional column typical for 65% keyboards.
 
 * 15.5u width (a common 60% has 15u width, a common 65% has 16u width,
   most 40% have between 12u and 13u width)
-* 52 to 56 keys (the possible layouts are dubbed XT50 to XT54 below)
+* 52 to 56 keys (the possible layouts are dubbed XTK 50 to XTK 54
+  below)
 * All these layouts should be doable with one plate and PCB design.
 
-#### XT51
+#### XTK 51
 
 * 53 Keys = 51%
 
 Was the first design I came up with as it's most close to a 65%
 design. It has a standard 6.25 spacebar.
 
-![XT51](Images/XT51.png)
-![XT51 with GMK Nines](Images/XT51.GMK-Nines.png)
+![XTK 51](Images/XTK-51.png)
+![XTK 51 with GMK Nines](Images/XTK-51.GMK-Nines.png)
 
 (Note: [GMK Nines](https://kono.store/products/gmk-nines-keycap-set)
 does not have all these keys.)
 
-#### XT53
+#### XTK 53
 
 * 55 Keys = 53%
 
 The same again, just with dedicated Lower and Raise keys and split
 space:
 
-![XT53](Images/XT53.png)
-![XT53 with Signature Plastics PBT DSA keys in OAL and WAN](Images/XT53.SP-PBT-DSA-OAL-WAN.png)
+![XTK 53](Images/XTK-53.png)
+![XTK 53 with Signature Plastics PBT DSA keys in OAL and WAN](Images/XTK-53.SP-PBT-DSA-OAL-WAN.png)
 
-#### XT50 ISO / XT52 ISO
+#### XTK 50 ISO / XTK 52 ISO
 
 * 52 Keys = 50% (single space)
 * 54 Keys = 52% (split space)
 
-XT51 and XT53 could actually support an ISO Enter key as by
+XTK 51 and XTK 53 could actually support an ISO Enter key as by
 coincidence Backspace and Enter together already have the exact size
 of an ISO Enter key. So let's move Backspace to where the Home key was
 and offer an ISO Enter, too:
 
-![XT50 ISO](Images/XT50.ISO.png)
-![XT52 ISO](Images/XT52.ISO.png)
+![XTK 50 ISO](Images/XTK-50.ISO.png)
+![XTK 52 ISO](Images/XTK-52.ISO.png)
 
 ### XTW
 
 * W = wide
 * 15.75u width
-* So far only one layout (XT54). Theoretically there are further
+* So far only one layout (XTK 54). Theoretically there are further
   layout variants possible:
     * It should also be doable with a single spacebar. Haven't
       checked, though.
@@ -97,10 +98,10 @@ and offer an ISO Enter, too:
       Home/Backspace and PageUp keys which surely would look rather
       ugly, not to mention that a 1.25u PageUp key cap is rather
       difficult to find.
-* Actually a superset of the XTHH/XTHH48 layout shown (see below) if
+* Actually a superset of the XTHH/XTHH 48 layout shown (see below) if
   you consider the Ctrl/Win/Alt keys to be rather flexible in width.
 
-#### XT54
+#### XTW 54
 
 * 56 Keys = 54%
 
@@ -112,18 +113,18 @@ couldn’t stop thinking how an arrow up key (and the according keys
 below) between /? and the right Shift key. This though needs 0.25u
 wider Backspace and Enter keys and hence a different plate and case.
 
-![XT54](Images/XT54.png)
-![XT54 with GMK Terminal](Images/XT54.GMK-Terminal.png)
+![XTW 54](Images/XTW-54.png)
+![XTW 54 with GMK Terminal](Images/XTW-54.GMK-Terminal.png)
 
 ### XTHH
 
 * HH = Happy Hacking
 * 14.75u width
 * HHKB-style bottom row with 1u blocks (the possible layouts are
-  dubbed XTHH49 and XTHH49 below)
+  dubbed XTHH 48 and XTHH 49 below)
 * All these layouts should be doable with one plate, case and PCB design.
 
-#### XTHH48
+#### XTHH 48
 
 * 50 Keys = 48%
 
@@ -131,10 +132,10 @@ But actually that arrow keys position works nicer with a HHKB style
 setup as the right arrow key is on the edge of the key space, so I
 also made a HHKB style design without that additional key column:
 
-![XTHH48](Images/XTHH48.png)
-![XTHH48 with GMK Terminal](Images/XTHH48.GMK-Terminal.png)
+![XTHH 48](Images/XTHH-48.png)
+![XTHH 48 with GMK Terminal](Images/XTHH-48.GMK-Terminal.png)
 
-#### XTHH49
+#### XTHH 49
 
 * 51 Keys = 49%
 
@@ -142,8 +143,8 @@ And as a variant, here’s also a 1u right Shift plus an additional 1u
 key, e.g. a function key like the HHKB, because 2u Shift key caps are
 hard to find:
 
-![XTHH49](Images/XTHH49.png)
-![XTHH49 with Laser SA](Images/XTHH49.Laser-SA.png)
+![XTHH 49](Images/XTHH-49.png)
+![XTHH 49 with Laser SA](Images/XTHH-49.Laser-SA.png)
 
 (Note: The colors used in the Laser SA render are just guessed.)
 

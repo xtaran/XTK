@@ -152,7 +152,7 @@ hard to find:
 Intended features
 -----------------
 
-* Kailh hotswap sockets with PCB-mount support — if this is every
+* Kailh hotswap sockets with PCB-mount support — if this is ever
   growing out of the handwired state.
 
 

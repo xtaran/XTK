@@ -152,8 +152,10 @@ hard to find:
 Intended features
 -----------------
 
-* Kailh hotswap sockets with PCB-mount support — if this is ever
-  growing out of the handwired state.
+* [Kailh hotswap
+  sockets](https://kbdfans.com/collections/keyboard-part/products/mechanical-keyboard-switches-kailh-pcb-socket)
+  with PCB-mount support — if this is ever growing out of the
+  handwired state.
 
 
 Layout Files

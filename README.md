@@ -218,6 +218,40 @@ of my design.
 * [Daisy HHKB-variant](https://kprepublic.com/products/anodized-aluminium-case-for-daisy-40-hhkb-layout-custom-keyboard-acrylic-diffuser-can-support-daisy)
 
 
+Resources
+----------
+
+### General Keyboard Resources
+
+* [Matt3o's "Book": How to Build a Custom
+  Keyboard](https://matt3o.com/book/) (more or less a series of long
+  and very informative blog postings under a Creative Commons license)
+* The [40percent.club Blog](https://www.40percent.club/)
+
+### Micro Controller
+
+* The [40percent.club Blog](https://www.40percent.club/) about:
+    * [Pro Micros](https://www.40percent.club/2018/01/pro-micros.html)
+    * [More Pro
+      Micros](https://www.40percent.club/2018/10/things-called-pro-micro.html)
+    * [Micro Controller
+      Sizes](https://www.40percent.club/2016/12/controller-comparison.html)
+    * [Micro Controller
+      Sockets](https://www.40percent.club/2018/03/sockets.html)
+
+#### Where To Buy
+
+* Elite-C: [at CandyKeys](https://candykeys.com/product/elite-c)
+* PJRC Teensy (multiple variants): [at
+  Maker-Shop.ch](https://www.maker-shop.ch/mainboards/teensy/boards),
+  [at Pimoroni](https://shop.pimoroni.com/?q=Teensy)
+* SparkFun Pro Micro (5V): [at Pimoroni](https://shop.pimoroni.com/products/pro-micro-5v-16mhz)
+* Blue Pro Micro clone: [at CandyKeys](https://candykeys.com/product/pro-micro-5v-16mhz)
+* [QMK Proton C](https://qmk.fm/proton-c/): [at
+  OLKB](https://olkb.com/parts/qmk-proton-c) (all other sources seem
+  to be sold out already)
+
+
 Thanks
 ------
 
@@ -228,6 +262,7 @@ Thanks
   that I'll use "XTK" anyway as "X Tool Kit" is definitely a different
   type of thing, so after a while I switched to this initial idea.
 * Stephan for reminding me of the DDmicro.
+* Marcel for remembering where I saw that Pro Micro comparison.
 
 
 Copyright & License

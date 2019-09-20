@@ -218,6 +218,7 @@ of my design.
 * [Neuron](https://www.keebtalk.com/t/ic-neuron-hhkb-40/6894)
 * [Pearl](https://geekhack.org/index.php?topic=92259.0)
 * [Daisy HHKB-variant](https://kprepublic.com/products/anodized-aluminium-case-for-daisy-40-hhkb-layout-custom-keyboard-acrylic-diffuser-can-support-daisy)
+* Dimple ([Geekhack](https://geekhack.org/index.php?topic=99501.0), [Website](http://lazydesigners.cn/dimple/))
 
 
 Resources

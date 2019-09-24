@@ -209,6 +209,7 @@ Similar Keyboards
   without the additional column and unfortunately wireless — and sold
   out; heard and forgot about it before I did my designs and after I
   showed my designs around, someone made me aware of it again.)
+* [TMO50](https://geekhack.org/index.php?topic=94675.0)
 
 #### HHKB-style 40% Keyboards
 
@@ -219,6 +220,7 @@ of my design.
 * [Pearl](https://geekhack.org/index.php?topic=92259.0)
 * [Daisy HHKB-variant](https://kprepublic.com/products/anodized-aluminium-case-for-daisy-40-hhkb-layout-custom-keyboard-acrylic-diffuser-can-support-daisy)
 * Dimple ([Geekhack](https://geekhack.org/index.php?topic=99501.0), [Website](http://lazydesigners.cn/dimple/))
+* [Akihabara 40](https://www.thingiverse.com/thing:3105838)
 
 
 Resources
@@ -230,6 +232,8 @@ Resources
   Keyboard](https://matt3o.com/book/) (more or less a series of long
   and very informative blog postings under a Creative Commons license)
 * The [40percent.club Blog](https://www.40percent.club/)
+* [Keebfolio](https://keebfol.io/), a list of open source keyboards,
+  tutorials and similar stuff.
 
 ### Micro Controller
 

@@ -209,7 +209,11 @@ Similar Keyboards
   without the additional column and unfortunately wireless — and sold
   out; heard and forgot about it before I did my designs and after I
   showed my designs around, someone made me aware of it again.)
-* [TMO50](https://geekhack.org/index.php?topic=94675.0)
+* [TMO50](https://geekhack.org/index.php?topic=94675.0) and its
+  cheaper 3D-printed clone
+  [Nightmare](https://keyhive.xyz/shop/nightmare-pcb-and-case)
+* [Magicforce
+  49](https://medium.com/@LinkedDesigns/magicforce-49-review-a-budget-40-mechanical-keyboard-52faab6ef10)
 
 #### HHKB-style 40% Keyboards
 

@@ -214,6 +214,8 @@ Similar Keyboards
   [Nightmare](https://keyhive.xyz/shop/nightmare-pcb-and-case)
 * [Magicforce
   49](https://medium.com/@LinkedDesigns/magicforce-49-review-a-budget-40-mechanical-keyboard-52faab6ef10)
+* [JD45](https://candykeys.com/product/pbt-sanctuary-rebirth) (a 45%
+  with similar layout, just one column less)
 
 #### HHKB-style 40% Keyboards
 

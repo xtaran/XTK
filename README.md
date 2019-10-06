@@ -178,7 +178,7 @@ Inspirations
 
 ### HHKB-style Keyboards With Dedicated Cursor Keys
 
-* [Tokyo66](https://zambumon.files.wordpress.com/2018/09/nautilus_nightmares_tokyo66_1.png?w=788&h=525)
+* [Tokyo66](https://zambumon.files.wordpress.com/2018/09/nautilus_nightmares_tokyo66_1.png)
   (via [Nautilus
   Nightmares](https://zambumon.com/nautilus-nightmares/))
 
@@ -188,6 +188,9 @@ Inspirations
 * [TKC CandyBar](https://thekey.company/collections/candybar) (40%
   plus number block; so a 50% to 55% layout, too, but different
   ideas; ordered one btw. :-)
+* [Percebe](https://zambumon.files.wordpress.com/2018/09/nautilus_nightmares_percebe_1.png)
+  (via [Nautilus
+  Nightmares](https://zambumon.com/nautilus-nightmares/))
 
 ### Other 40% Keyboards
 

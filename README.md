@@ -257,15 +257,17 @@ Resources
 
 #### Where To Buy
 
-* Elite-C: [at CandyKeys](https://candykeys.com/product/elite-c)
+* Elite-C: [at CandyKeys](https://candykeys.com/product/elite-c) or
+  [at NovelKeys](https://novelkeys.xyz/products/elite-c-pcb-v3)
 * PJRC Teensy (multiple variants): [at
   Maker-Shop.ch](https://www.maker-shop.ch/mainboards/teensy/boards),
   [at Pimoroni](https://shop.pimoroni.com/?q=Teensy)
 * SparkFun Pro Micro (5V): [at Pimoroni](https://shop.pimoroni.com/products/pro-micro-5v-16mhz)
 * Blue Pro Micro clone: [at CandyKeys](https://candykeys.com/product/pro-micro-5v-16mhz)
 * [QMK Proton C](https://qmk.fm/proton-c/): [at
-  OLKB](https://olkb.com/parts/qmk-proton-c) (all other sources seem
-  to be sold out already)
+  OLKB](https://olkb.com/parts/qmk-proton-c) or [at
+  mykeyboard.eu](https://mykeyboard.eu/catalogue/qmk-proton-c-rev-2_1246/)
+  (all other sources seem to be sold out already)
 
 
 Thanks

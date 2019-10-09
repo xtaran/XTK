@@ -267,9 +267,10 @@ Resources
   CandyKeys](https://candykeys.com/product/pro-micro-5v-16mhz) or [at
   KeyHive](https://keyhive.xyz/shop/pro-micro)
 * [QMK Proton C](https://qmk.fm/proton-c/): [at
-  OLKB](https://olkb.com/parts/qmk-proton-c) or [at
+  OLKB](https://olkb.com/parts/qmk-proton-c), or [at 1UP
+  Keyboards](https://www.1upkeyboards.com/shop/controllers/qmk-proton-c/)
+  or [at
   mykeyboard.eu](https://mykeyboard.eu/catalogue/qmk-proton-c-rev-2_1246/)
-  (all other sources seem to be sold out already)
 
 
 Thanks

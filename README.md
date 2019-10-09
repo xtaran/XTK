@@ -243,6 +243,9 @@ Resources
 * The [40percent.club Blog](https://www.40percent.club/)
 * [Keebfolio](https://keebfol.io/), a list of open source keyboards,
   tutorials and similar stuff.
+* [List of PCB Manufacturers and laser cutting
+  services](https://github.com/joric/qmk_firmware/wiki/jorne#pcb-manufacturers-and-laser-cutting-services)
+  in the wiki of joric's Crkbd/Corne variant called jorne.
 
 ### Micro Controller
 

@@ -264,6 +264,9 @@ Resources
       Sizes](https://www.40percent.club/2016/12/controller-comparison.html)
     * [Micro Controller
       Sockets](https://www.40percent.club/2018/03/sockets.html)
+* The [Goldfish](https://github.com/Dr-Derivative/Goldfish), an
+  open-source USB-C Pro Micro clone. ([Geekhack
+  thread](https://geekhack.org/index.php?topic=93571.0))
 
 #### Where To Buy
 

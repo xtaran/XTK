@@ -253,6 +253,8 @@ Resources
   in the wiki of joric's Crkbd/Corne variant called jorne.
 * [ai03's PCB Designer
   Guide](https://wiki.ai03.me/books/pcb-design/chapter/pcb-designer-guide)
+* [Keyboard PCB
+  Guide](https://github.com/ruiqimao/keyboard-pcb-guide/blob/master/README.md)
 
 ### Micro Controller
 

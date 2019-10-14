@@ -220,6 +220,8 @@ Similar Keyboards
 * [JD45](https://carpekeyboards.com/reference/jd45/) (a 45%
   with similar layout, just one column less)
 * [iso50](https://github.com/trebb/iso50)
+* [ai03 Voyager50](https://github.com/ai03-2725/Voyager50) (actually
+  just a PCB)
 
 #### HHKB-style 40% Keyboards
 
@@ -247,6 +249,8 @@ Resources
 * [List of PCB Manufacturers and laser cutting
   services](https://github.com/joric/qmk_firmware/wiki/jorne#pcb-manufacturers-and-laser-cutting-services)
   in the wiki of joric's Crkbd/Corne variant called jorne.
+* [ai03's PCB Designer
+  Guide](https://wiki.ai03.me/books/pcb-design/chapter/pcb-designer-guide)
 
 ### Micro Controller
 

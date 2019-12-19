@@ -36,17 +36,27 @@ Incentives
 
 ### Other Ideas
 
-#### 30% Keyboard with Enigma Layout
+#### Sub-30% Keyboard with Enigma Layout
 
 * Having seen a [real Enigma cryptographic
   machine](https://commons.wikimedia.org/wiki/File:Commercial_ENIGMA_-_National_Cryptologic_Museum_-_DSC07755.JPG)
-  in a museum and having noticed its unusual, but very compact "30%"
-  layout, I wondered if this could be the base for a very compact 30%
-  keyboard.
+  in a museum and having noticed its unusual, but very compact "25%"
+  layout, I wondered if this could be the base for a very compact
+  Sub-30% keyboard.
 * The Enigma had no Space, Shift or other keys than letters, but we
   need at least one more key, probably working as SpaceFn.
 * The outcome is similar to and probably could also be based upon the
   minimal [pain27 keyboard](https://github.com/uuupah/pain27).
+* Actually there are again multiple layout ideas:
+    * The pain27 layout with P and L moved as with the Enigma.
+    * The pain27 layout with P moved down right of the M.
+    * The pain27 layout with the full-size spacebar removed and a 2u
+      spacebar right of the M key, similar to the
+      [Alpha28](https://github.com/PyrooL/Alpha), but without B, N,
+      and M shifted to the right and instead the spacebar placed at
+      the right end of that column. Since the actual spacebar reaches
+      that far to the right side anyways, this should be that hard to
+      type on.
 
 
 The Designs
@@ -331,3 +341,10 @@ General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with these keyboard designs.  If not, see
 https://www.gnu.org/licenses/.
+
+
+TODO
+----
+
+Separate the several designs (26% and 50% keyboards) into
+subdirectories or their own Git repositories.

@@ -34,6 +34,20 @@ Incentives
       GMK Paperwork included. Might be compensated with a 1u Shift
       plus another 1u key (as in the XTHH 49 layout).
 
+### Other Ideas
+
+#### 30% Keyboard with Enigma Layout
+
+* Having seen a [real Enigma cryptographic
+  machine](https://commons.wikimedia.org/wiki/File:Commercial_ENIGMA_-_National_Cryptologic_Museum_-_DSC07755.JPG)
+  in a museum and having noticed its unusual, but very compact "30%"
+  layout, I wondered if this could be the base for a very compact 30%
+  keyboard.
+* The Enigma had no Space, Shift or other keys than letters, but we
+  need at least one more key, probably working as SpaceFn.
+* The outcome is similar to and probably could also be based upon the
+  minimal [pain27 keyboard](https://github.com/uuupah/pain27).
+
 
 The Designs
 -----------

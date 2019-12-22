@@ -5,7 +5,7 @@ A set of minimal 26% (27 keys) keyboard designs inspired by the
 [Enigma](https://en.wikipedia.org/wiki/Enigma_machine), the [pain27
 keyboard](https://github.com/uuupah/pain27) (licensed under the CC0
 license), the [Alpha keyboard](https://github.com/PyrooL/Alpha)
-(licensed under the MIT license, and the [30wer
+(licensed under the MIT license), and the [30wer
 keyboard](https://www.keebtalk.com/t/gb-30wer-by-8o7wer/3618).
 
 The Idea

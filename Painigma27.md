@@ -52,7 +52,7 @@ Editor](http://www.keyboard-layout-editor.com/) and compatible tools.)
 
 #### Painigma27
 
-The real Enigma keyboard layout plus spacebar based on the pain27
+The real Enigma keyboard layout plus spacebar based on the pain27.
 
 ![Painigma27](Images/painigma27.png)
 
@@ -70,7 +70,7 @@ to the off-center 6.25u spacebar of the pain27.
 #### Halfnigma27
 
 A less awkward deviation from the standard layout by only moving the P
-key to where the Enigma moved the L key. Everthing else is again
+key to where the Enigma moved the L key. Everything else is again
 identical to the pain27.
 
 ![Halfnigma27](Images/halfnigma27.png)
@@ -88,7 +88,7 @@ a crossover of the pain27 and 30wer keyboards.
 
 ### Alpha-based
 
-#### Alpahwer
+#### Alphawer
 
 Same idea as with the pain27wer, but based on the Alpha keyboard by
 simply moving the B, N, and M keys back to their classic position and
@@ -97,4 +97,4 @@ V and B keys.
 
 ![Alphawer](Images/alphawer.png)
 
-[layout in JSON format](Layouts/pain27wer.json)
+[layout in JSON format](Layouts/alphawer.json)

@@ -36,8 +36,8 @@ Incentives
 
 ### Other Ideas
 
-[Sub-30% Keyboards with Enigma Layout](Painigma27.md)
-[TKL-based Keyboards with "missing" rows](XTKL.md)
+* [Sub-30% Keyboards with Enigma Layout](Painigma27.md)
+* [TKL-based Keyboards with "missing" rows](XTKL.md)
 
 
 The Designs

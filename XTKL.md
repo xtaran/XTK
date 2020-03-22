@@ -3,10 +3,10 @@ TKLs with "missing" Rows
 
 I'm a fan of small keyboard layouts as well as of TKL. When I first
 saw a keyboard which looked like a TKL but was the whole F-row
-including Print-Screen, Scroll-Lock and Pause/Break keys missing, I
-was sold: I need such a keyboard.
+(including Print-Screen, Scroll-Lock and Pause/Break keys) missing, I
+was sold: I want such a keyboard. :-)
 
-So far I only know two keyboard models with that layout:
+So far I only know two keyboard models with such a layout:
 
 * [Drevo Calibur](https://www.drevo.net/product/keyboard/calibur) (aka
   [Keycool

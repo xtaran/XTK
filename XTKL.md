@@ -48,6 +48,9 @@ More or less the generic ANSI TKL layout, but
 You could also describe it as 40% or 50% keyboard with all columns of
 a TKL keyboard.
 
+For keycap compatibility reasons, the widht of the
+Backspace/Enter/RShift column has been left untouched
+
 ![XTKL 57](Images/XTKL-57.png)
 
 [layout in JSON format](Layouts/XTKL-57.json)

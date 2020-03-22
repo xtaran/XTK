@@ -45,8 +45,7 @@ More or less the generic ANSI TKL layout, but
 * The second and third top-most rows of the MF-II block are moved one
   row toward the bottom.
 * Left-most column key widths like a 40% keyboard and some bottom row
-  optimizations, probably allowing a split spacebar (3u + 2.75u) and
-  single spacebar (6u) design.
+  optimizations with a 6u spacebar.
   
 You could also describe it as 40% or 50% keyboard with all columns of
 a TKL keyboard.
@@ -57,3 +56,21 @@ Backspace/Enter/RShift column has been left untouched.
 ![XTKL 57](Images/XTKL-57.png)
 
 [layout in JSON format](Layouts/XTKL-57.json)
+
+### XTKL 59
+
+Based on the XTKL 57, it has been modified to sport a split spacebar
+(3u + 2.75u) and fitted in a Pipe/Backslash key. I'm though still
+unsure where, hence there are two variants currently:
+
+#### XTKL 59a
+
+![XTKL 59a](Images/XTKL-59a.png)
+
+[layout in JSON format](Layouts/XTKL-59a.json)
+
+#### XTKL 59b
+
+![XTKL 59b](Images/XTKL-59b.png)
+
+[layout in JSON format](Layouts/XTKL-59b.json)

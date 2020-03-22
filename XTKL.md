@@ -8,7 +8,10 @@ was sold: I need such a keyboard.
 
 So far I only know two keyboard models with that layout:
 
-* Drevo Calibur (aka Keycool KC-61) with Bluetooth
+* [Drevo Calibur](https://www.drevo.net/product/keyboard/calibur) (aka
+  [Keycool
+  KC71](https://drop.com/buy/kc71-rgb-bluetooth-mechanical-keyboard?mode=guest_open))
+  with Bluetooth
 * KPRepublic 71-Keys Custom Keyboard (no more available and product
   page deleted)
 
@@ -49,7 +52,7 @@ You could also describe it as 40% or 50% keyboard with all columns of
 a TKL keyboard.
 
 For keycap compatibility reasons, the widht of the
-Backspace/Enter/RShift column has been left untouched
+Backspace/Enter/RShift column has been left untouched.
 
 ![XTKL 57](Images/XTKL-57.png)
 

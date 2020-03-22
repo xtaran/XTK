@@ -24,10 +24,3 @@ General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with these keyboard designs.  If not, see
 https://www.gnu.org/licenses/.
-
-
-TODO
-----
-
-Separate the several designs (26% and 50% keyboards) into
-subdirectories or their own Git repositories.

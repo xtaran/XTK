@@ -57,4 +57,3 @@ Backspace/Enter/RShift column has been left untouched.
 ![XTKL 57](Images/XTKL-57.png)
 
 [layout in JSON format](Layouts/XTKL-57.json)
-

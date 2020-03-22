@@ -1,5 +1,5 @@
-XTaran's Keyboard Designs: 27% to 70% Keyboards
-===============================================
+27% to 70% Keyboard Designs
+===========================
 
 ("XTK" is short for "XTaran's Keyboard(s)")
 

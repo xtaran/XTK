@@ -65,11 +65,17 @@ unsure where, hence there are two variants currently:
 
 #### XTKL 59a
 
+Pipe/Backslash key close to its original position, but requires a
+rather unusual 1.25u Enter key.
+
 ![XTKL 59a](Images/XTKL-59a.png)
 
 [layout in JSON format](Layouts/XTKL-59a.json)
 
 #### XTKL 59b
+
+The 1.75u Shift key is much more common as many keyboards have an
+additional Fn key right of the right Shift key.
 
 ![XTKL 59b](Images/XTKL-59b.png)
 

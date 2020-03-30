@@ -1,5 +1,5 @@
-Minimal Kinda-Staggered 40% Keyboard
-====================================
+Minimal Kinda-Staggered 40% Keyboard Design
+===========================================
 
 At some point I noticed at least most of my 40% keyboards have more
 less the same layout (probably because I like 40% keyboards with

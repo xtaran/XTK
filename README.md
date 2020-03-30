@@ -4,9 +4,9 @@
 ("XTK" is short for "XTaran's Keyboard(s)")
 
 * [45% to 55% Keyboard Designs](XTK.md)
-* [Sub-30% Keyboards with Enigma Layout](Painigma27.md)
-* [TKL-based Keyboards with "missing" rows](XTKL.md)
-* [A minimal kinda-staggered 40% keyboard](XTM.md)
+* [Sub-30% Keyboard Designs with Enigma Layout](Painigma27.md)
+* [TKL-based Keyboard Designss with "missing" rows](XTKL.md)
+* [A minimal kinda-staggered 40% Keyboard Design](XTM.md)
 
 
 Copyright & License

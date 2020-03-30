@@ -6,6 +6,7 @@
 * [45% to 55% Keyboard Designs](XTK.md)
 * [Sub-30% Keyboards with Enigma Layout](Painigma27.md)
 * [TKL-based Keyboards with "missing" rows](XTKL.md)
+* [A minimal kinda-staggered 40% keyboard](XTM.md)
 
 
 Copyright & License

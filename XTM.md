@@ -14,6 +14,7 @@ cursor clusters), but that they differ in the overall width:
   12.75u
 * [BM43a](https://kprepublic.com/products/bm43a-aluminium-high-sloped-case):
   12u
+* [Daisy](https://kprepublic.com/collections/daisy-41): 12u
 
 Comparing them shows where they reduce width:
 
@@ -30,7 +31,7 @@ Comparing them shows where they reduce width:
 * The Zlant is — except for the bottom row — very similar to the
   UT47.2. Only that the edge keys are all 1u and hence the offsets are
   also present on the edges.
-  
+
 * The BM43a is kinda the exception: It mostly looses width by having
   removed one more column, the one with the `;:` and `.>` keys, and
   then shrinking Backspace to 1u. Since this is only a difference of
@@ -38,7 +39,11 @@ Comparing them shows where they reduce width:
   cap widths at right end, it had to extend the offset between the
   ASDF and the ZXCV rows by 0.25u to 0.75u — which makes it look a bit
   awkward and scares off some users.
-  
+
+* The Daisy does the same as the BM43a, just without that awkward
+  non-standard offset. It uses an 1.25u arrow right (and left) key
+  instead.
+
 And then there is the [Alpha28](https://github.com/PyrooL/Alpha), a
 semi-ortholinear, semi-staggered sub-30% keyboard which has no offset
 between the QWERT and the ASDF rows (like an ortholinear keyboard) and

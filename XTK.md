@@ -177,6 +177,9 @@ Inspirations
 * [Tokyo66](https://zambumon.files.wordpress.com/2018/09/nautilus_nightmares_tokyo66_1.png)
   (via [Nautilus
   Nightmares](https://zambumon.com/nautilus-nightmares/))
+* [YAS62](https://geekhack.org/index.php?topic=87511.0) (Not really a
+  direct inspiration as I learned of it only months after I made these
+  designs, but I can still draw ideas about details from it.)
 
 ### 40% Keyboards With Dedicated Cursor Keys
 
@@ -218,6 +221,7 @@ Similar Keyboards
 * [iso50](https://github.com/trebb/iso50)
 * [ai03 Voyager50](https://github.com/ai03-2725/Voyager50) (actually
   just a PCB)
+* [kimslawson's 50%-1800 crossover](https://www.keebtalk.com/t/95-boards-how-do-you-find-the-enter-and-cursor-keys-just-with-your-fingers/8661/7)
 
 #### HHKB-style 40% Keyboards
 

@@ -13,9 +13,14 @@ So far I only know two keyboard models with such a layout:
   KC71](https://drop.com/buy/kc71-rgb-bluetooth-mechanical-keyboard?mode=guest_open))
   with Bluetooth
 * KPRepublic 71-Keys Custom Keyboard (no more available and product
-  page deleted)
+  page deleted) <!-- was https://kprepublic.com/products/custom-mechanical-keyboard-kit-71-keys-kinds-of-led-effects-pcb-70-keycool-gaming-keyboard-led-backlight-available -->
 
-<!-- was https://kprepublic.com/products/custom-mechanical-keyboard-kit-71-keys-kinds-of-led-effects-pcb-70-keycool-gaming-keyboard-led-backlight-available -->
+Keyboards with similar layouts:
+
+* [Mechagodzilla](https://www.etsy.com/listing/787326873/mechagodzilla-mechanical-keyboard-case)
+  (moves ScrollLock, PrintScreen and Pause/Break to row 3 directly
+  above the cursor keys—nice idea—but also removes the Right Alt and
+  the Meny key—bad idea)
 
 Since I neither want Bluetooth (or any other radio technology) in any
 of my keyboards, I seem to need to build such a keyboard on my own.

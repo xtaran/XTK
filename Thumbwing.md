@@ -3,7 +3,11 @@ Thumbwing
 
 The Thumbwing is the idea of a mostly thumb-operated mechanical 30%
 keyboard which you hold like a gamepad and which has the modifier keys
-on the back side as well as some shoulder and belly keys:
+on the back side as well as some shoulder and belly keys.
+
+The idea came up after holding an
+[Alpha28](https://github.com/PyrooL/Alpha) like a gamepad with both
+hands and typing with the thumbs.
 
 ![Thumbwing](Images/Thumbwing.png)
 

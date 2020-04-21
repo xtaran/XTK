@@ -5,7 +5,7 @@
 
 * [45% to 55% Keyboard Designs](XTK.md)
 * [Sub-30% Keyboard Designs with Enigma Layout](Painigma27.md)
-* [TKL-based Keyboard Designss with "missing" rows](XTKL.md)
+* [TKL-based Keyboard Designs with "missing" rows](XTKL.md)
 * [A minimal kinda-staggered 40% Keyboard Design](XTM.md)
 * [Thumbwing, a gamepad style mechanical keyboard with backside keys](Thumbwing.md)
 

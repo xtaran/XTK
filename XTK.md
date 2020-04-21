@@ -181,7 +181,8 @@ Inspirations
   direct inspiration as [I learned about
   it](https://www.keebtalk.com/t/60-hhkb-like-layout-but-with-dedicated-arrows/8591/15)
   only months after I made these designs, but I can still draw ideas
-  about details from it.)
+  about details from it, albeit [also for other
+  designs](HHKB-with-cursor-cross.md).)
 
 ### 40% Keyboards With Dedicated Cursor Keys
 

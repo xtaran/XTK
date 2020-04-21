@@ -8,6 +8,7 @@
 * [TKL-based Keyboard Designs with "missing" rows](XTKL.md)
 * [A minimal kinda-staggered 40% Keyboard Design](XTM.md)
 * [Thumbwing, a gamepad style mechanical keyboard with backside keys](Thumbwing.md)
+* [HHKB-layout with a dedicated cursor cross](HHKB-with-cursor-cross.md)
 
 
 Copyright & License

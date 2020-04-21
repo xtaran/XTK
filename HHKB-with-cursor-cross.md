@@ -33,6 +33,6 @@ Similar Keyboards
 -----------------
 
 * [YAS62](https://geekhack.org/index.php?topic=87511.0) (Didn't know
-  about it before as [I learned about
+  about it when making this design as [I learned about
   it](https://www.keebtalk.com/t/60-hhkb-like-layout-but-with-dedicated-arrows/8591/15)
   in the same thread, just two days after I posted my design there.)

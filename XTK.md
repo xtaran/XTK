@@ -178,8 +178,10 @@ Inspirations
   (via [Nautilus
   Nightmares](https://zambumon.com/nautilus-nightmares/))
 * [YAS62](https://geekhack.org/index.php?topic=87511.0) (Not really a
-  direct inspiration as I learned of it only months after I made these
-  designs, but I can still draw ideas about details from it.)
+  direct inspiration as [I learned about
+  it](https://www.keebtalk.com/t/60-hhkb-like-layout-but-with-dedicated-arrows/8591/15)
+  only months after I made these designs, but I can still draw ideas
+  about details from it.)
 
 ### 40% Keyboards With Dedicated Cursor Keys
 

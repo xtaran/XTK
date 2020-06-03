@@ -2,7 +2,7 @@ TKLs with "missing" Rows
 ========================
 
 I'm a fan of small keyboard layouts as well as of TKL. When I first
-saw a keyboard which looked like a TKL but was the whole F-row
+saw a keyboard which looked like a TKL but had the whole F-row
 (including Print-Screen, Scroll-Lock and Pause/Break keys) missing, I
 was sold: I want such a keyboard. :-)
 

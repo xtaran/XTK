@@ -3,7 +3,7 @@
 
 ("XTK" is short for "XTaran's Keyboard(s)")
 
-* [45% to 55% Keyboard Designs](XTK.md)
+* [45% to 55% Keyboard Designs](XTK.md) (my initial designs)
 * [Sub-30% Keyboard Designs with Enigma Layout](Painigma27.md)
 * [TKL-based Keyboard Designs with "missing" rows](XTKL.md)
 * [A minimal kinda-staggered 40% Keyboard Design](XTM.md)

@@ -1,5 +1,5 @@
-HHKB-layout with dedicated cursor cross
-=======================================
+HHKB-style Keyboard Layout Design With Dedicated Cursor Cross
+=============================================================
 
 In the ["60% HHKB-like layout, but with dedicated arrows"
 thread](https://www.keebtalk.com/t/60-hhkb-like-layout-but-with-dedicated-arrows/8591/5)

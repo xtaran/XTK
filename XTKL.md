@@ -1,5 +1,5 @@
-TKLs with "missing" Rows
-========================
+TKL Layout Designs with "missing" Rows
+======================================
 
 I'm a fan of small keyboard layouts as well as of TKL. When I first
 saw a keyboard which looked like a TKL but had the whole F-row

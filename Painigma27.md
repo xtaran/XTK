@@ -1,7 +1,7 @@
 Painigma27 and Friends
 ======================
 
-A set of minimal 26% (27 keys) keyboard designs inspired by the
+A set of minimal 26% (27 keys) keyboard layout designs inspired by the
 [Enigma](https://en.wikipedia.org/wiki/Enigma_machine), the [pain27
 keyboard](https://github.com/uuupah/pain27) (licensed under the CC0
 license), the [Alpha keyboard](https://github.com/PyrooL/Alpha)

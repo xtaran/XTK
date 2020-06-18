@@ -1,14 +1,14 @@
-27% to 70% Keyboard Designs
-===========================
+27% to 70% Keyboard Layout Designs
+==================================
 
 ("XTK" is short for "XTaran's Keyboard(s)")
 
-* [45% to 55% Keyboard Designs](XTK.md) — my initial designs
-* [Sub-30% Keyboard Designs with Enigma Layout](Painigma27.md)
-* [TKL-based Keyboard Designs with "missing" rows](XTKL.md)
-* [A minimal kinda-staggered 40% Keyboard Design](XTM.md)
-* [Thumbwing, a gamepad style mechanical keyboard with backside keys](Thumbwing.md)
-* [HHKB-layout with a dedicated cursor cross](HHKB-with-cursor-cross.md)
+* [45% to 55% Keyboard Layout Designs](XTK.md) — my initial designs
+* [Sub-30% Keyboard Layout Designs with Enigma Layout](Painigma27.md)
+* [TKL-based Keyboard Layout Designs with "missing" rows](XTKL.md)
+* [A minimal kinda-staggered 40% Keyboard Layout Design](XTM.md)
+* [Thumbwing, a gamepad style mechanical keyboard layout with backside keys](Thumbwing.md)
+* [HHKB-style keyboard layout design with a dedicated cursor cross](HHKB-with-cursor-cross.md)
 
 
 Copyright & License

@@ -96,7 +96,10 @@ rather unusual 1.25u Enter key.
 #### XTKL 59b
 
 The 1.75u Shift key is much more common as many keyboards have an
-additional Fn key right of the right Shift key.
+additional Fn key right of the right Shift key. Also the needed
+Pipe/Backslash R4 key is common on ISO layouts. (On ISO layouts this
+is on the left end of R4 on these layouts — impossible here due to the
+by 0.5u reduced column width on the left side.)
 
 ![XTKL 59b](Images/XTKL-59b.png)
 

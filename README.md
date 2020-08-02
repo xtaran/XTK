@@ -5,7 +5,7 @@
 
 * [45% to 55% keyboard layout designs](XTK.md) — my initial designs
 * [Sub-30% keyboard layout designs with Enigma layout](Painigma27.md)
-* [TKL-based keyboard layout designs with "missing" rows](XTKL.md)
+* [TKL-based keyboard layout designs with "missing" rows or IBM-style cursor cross](XTKL.md)
 * [minimal kinda-staggered 40% keyboard layout design](XTM.md)
 * [Thumbwing, a gamepad style mechanical keyboard layout with backside keys](Thumbwing.md)
 * [HHKB-style keyboard layout design with a dedicated cursor cross](HHKB-with-cursor-cross.md)

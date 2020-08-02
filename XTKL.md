@@ -1,5 +1,5 @@
-TKL Layout Designs with "missing" Rows
-======================================
+TKL Layout Designs with "missing" Rows or IBM-style cursor cross
+================================================================
 
 I'm a fan of small keyboard layouts as well as of TKL. When I first
 saw a keyboard which looked like a TKL but had the whole F-row
@@ -39,6 +39,18 @@ removed and a bit of HHKB/Sun style.
 ![XTKL 71](Images/XTKL-71.png)
 
 [layout in JSON format](Layouts/XTKL-71.json)
+
+#### XTKL 71i
+
+Same as the XTKL 71, but with IBM-style, symmetrically arranged cursor
+keys and an additional Enter key in the middle.
+
+Due to the unusual row, this layout is likely only suitable for
+non-sculpted key cap profiles like DSA, XDA, KAM or VSA.
+
+![XTKL 71i](Images/XTKL-71i.png)
+
+[layout in JSON format](Layouts/XTKL-71i.json)
 
 ### XTKL 57
 
@@ -85,3 +97,17 @@ additional Fn key right of the right Shift key.
 ![XTKL 59b](Images/XTKL-59b.png)
 
 [layout in JSON format](Layouts/XTKL-59b.json)
+
+### XTKL 88i
+
+A simple TKL layout (i.e. with the F-row still there) with just the
+IBM-style, symmetrically arranged cursor keys and an additional Enter
+key in the middle of them.
+
+Due to the unusual row, this layout is likely only suitable for
+non-sculpted key cap profiles like DSA, XDA, KAM or VSA.
+
+
+![XTKL 88i](Images/XTKL-88i.png)
+
+[layout in JSON format](Layouts/XTKL-88i.json)

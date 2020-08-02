@@ -112,7 +112,8 @@ key exchanged to that the Pipe/Backslash key is where the HHKB has
 typically its Fn key: On the very right end of R4.
 
 There's a chance that the layouts XTKL 59b and 59c and maybe even 59a
-can be implemented in a single PCB, albeit maybe not a hotswap one.
+and 57 (or any mixture of them) can be implemented in a single PCB,
+albeit maybe not a hotswap one.
 
 ![XTKL 59c](Images/XTKL-59c.png)
 

@@ -33,8 +33,8 @@ Editor](http://www.keyboard-layout-editor.com/) and compatible tools.)
 
 ### XTKL 72
 
-<small>(Formerly named XTKL 71 as most keyboards with such a design had
-71 keys.)</small>
+<a name="xtkl-71"><small>(Formerly named XTKL 71 as most keyboards
+with such a design had 71 keys.)</small></a>
 
 More or less the generic ANSI TKL layout with the top-most key row
 removed and a bit of HHKB/Sun style.

@@ -105,6 +105,19 @@ by 0.5u reduced column width on the left side.)
 
 [layout in JSON format](Layouts/XTKL-59b.json)
 
+#### XTKL 59c
+
+Same as XTKL 59b but with positions of Pipe/Backslash and Right Shift
+key exchanged to that the Pipe/Backslash key is where the HHKB has
+typically its Fn key: On the very right end of R4.
+
+There's a chance that the layouts XTKL 59b and 59c and maybe even 59a
+can be implemented in a single PCB, albeit maybe not a hotswap one.
+
+![XTKL 59c](Images/XTKL-59c.png)
+
+[layout in JSON format](Layouts/XTKL-59c.json)
+
 ### XTKL 88i
 
 A simple TKL layout (i.e. with the F-row still there) with just the

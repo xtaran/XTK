@@ -48,8 +48,9 @@ removed and a bit of HHKB/Sun style.
 Same as the XTKL 72, but with IBM-style, symmetrically arranged cursor
 keys and an additional Enter key in the middle.
 
-Due to the unusual row, this layout is likely only suitable for
-non-sculpted key cap profiles like DSA, XDA, KAM or VSA.
+Due to the unusual row for left and right arrow keys, this layout is
+likely only suitable for non-sculpted key cap profiles like DSA, XDA,
+KAM or VSA.
 
 ![XTKL 73i](Images/XTKL-73i.png)
 
@@ -107,9 +108,9 @@ A simple TKL layout (i.e. with the F-row still there) with just the
 IBM-style, symmetrically arranged cursor keys and an additional Enter
 key in the middle of them.
 
-Due to the unusual row, this layout is likely only suitable for
-non-sculpted key cap profiles like DSA, XDA, KAM or VSA.
-
+Due to the unusual row for left and right arrow keys, this layout is
+likely only suitable for non-sculpted key cap profiles like DSA, XDA,
+KAM or VSA.
 
 ![XTKL 88i](Images/XTKL-88i.png)
 

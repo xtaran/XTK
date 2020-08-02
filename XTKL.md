@@ -31,26 +31,29 @@ The Designs
 (The JSON layout files are meant for usage with the [Keyboard Layout
 Editor](http://www.keyboard-layout-editor.com/) and compatible tools.)
 
-### XTKL 71
+### XTKL 72
+
+<small>(Formerly named XTKL 71 as most keyboards with such a design had
+71 keys.)</small>
 
 More or less the generic ANSI TKL layout with the top-most key row
 removed and a bit of HHKB/Sun style.
 
-![XTKL 71](Images/XTKL-71.png)
+![XTKL 72](Images/XTKL-72.png)
 
-[layout in JSON format](Layouts/XTKL-71.json)
+[layout in JSON format](Layouts/XTKL-72.json)
 
-#### XTKL 71i
+#### XTKL 73i
 
-Same as the XTKL 71, but with IBM-style, symmetrically arranged cursor
+Same as the XTKL 72, but with IBM-style, symmetrically arranged cursor
 keys and an additional Enter key in the middle.
 
 Due to the unusual row, this layout is likely only suitable for
 non-sculpted key cap profiles like DSA, XDA, KAM or VSA.
 
-![XTKL 71i](Images/XTKL-71i.png)
+![XTKL 73i](Images/XTKL-73i.png)
 
-[layout in JSON format](Layouts/XTKL-71i.json)
+[layout in JSON format](Layouts/XTKL-73i.json)
 
 ### XTKL 57
 

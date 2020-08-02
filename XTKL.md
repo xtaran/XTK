@@ -82,7 +82,7 @@ Backspace/Enter/RShift column has been left untouched.
 
 Based on the XTKL 57, it has been modified to sport a split spacebar
 (3u + 2.75u) and fitted in a Pipe/Backslash key. I'm though still
-unsure where, hence there are two variants currently:
+unsure where, hence there are three variants currently:
 
 #### XTKL 59a
 

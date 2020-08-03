@@ -50,7 +50,7 @@ keys and an additional Enter key in the middle.
 
 Due to the unusual row for left and right arrow keys, this layout is
 likely only suitable for non-sculpted key cap profiles like DSA, XDA,
-KAM or VSA.
+KAM, SA R3 or VSA.
 
 ![XTKL 73i](Images/XTKL-73i.png)
 
@@ -127,7 +127,7 @@ key in the middle of them.
 
 Due to the unusual row for left and right arrow keys, this layout is
 likely only suitable for non-sculpted key cap profiles like DSA, XDA,
-KAM or VSA.
+KAM, SA R3 or VSA.
 
 ![XTKL 88i](Images/XTKL-88i.png)
 

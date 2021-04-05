@@ -45,7 +45,11 @@ it as such.
 * `X` and `.` are `Super` (Windows/OS keys) on hold
   * Yes, I only need that key as modifier as I don't use Windows.
 * `C` and `,` are `Alt` on hold
-* `Space` is `Fn` (layer switch) on hold.
+* `Space` is `Fn` (layer switch) on hold. (That concept is nowadays
+  known as [SpaceFn](https://github.com/OhYee/SpaceFn)
+  although the [original
+  idea](https://geekhack.org/index.php?topic=51069.0) worked a little
+  bit different.)
 
 If you need to auto-repeat keys, e.g. `Space`, press it once, release
 it, press it immediately again and hold it down. (QMK's so called

@@ -8,8 +8,8 @@ challenge](https://www.keebtalk.com/t/60-hhkb-like-layout-but-with-dedicated-arr
 and since it's an original design of myself, I added it here with a
 bit more details in its own category, too.
 
-The Design
-----------
+The Designs
+-----------
 
 ### XTHH CC
 
@@ -28,11 +28,19 @@ blocker sizes:
 
 ![Original HHKB layout with blocker sizes](Images/HHKB-original-layout-with-blocker-sizes.png)
 
-
-Similar Keyboards
------------------
+#### Similar Keyboards
 
 * [YAS62](https://geekhack.org/index.php?topic=87511.0) (Didn't know
   about it when making this design as [I learned about
   it](https://www.keebtalk.com/t/60-hhkb-like-layout-but-with-dedicated-arrows/8591/15)
   in the same thread, just two days after I posted my design there.)
+
+
+### XTHH CC 6R
+
+A similar design, but close to the original layout at the expense of
+adding a 6th row, hence the "6R" suffix.
+
+![XTHH CC 6R](Images/XTHH-CC-6R.png)
+
+[layout as JSON file for the KLE](Layouts/XTHH-CC-6R.json)

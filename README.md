@@ -1,7 +1,22 @@
 27% to 70% Keyboard Layout Designs
 ==================================
 
+![XTHH 48 rendered with GMK Terminal](Images/XTHH-48.GMK-Terminal.png)
+
+Preface
+-------
+
+This repository contains more or less all my designs, thoughts,
+braindumps and crazy ideas around keyboard layout design.
 ("XTK" is short for "XTaran's Keyboard(s)")
+
+The layouts were usually created in the online [Keyboard Layout
+Editor](http://www.keyboard-layout-editor.com/) and the JSON format it
+produces can be consumed by many other tools from the mechanical
+keyboard scene.
+
+The Layout Designs
+------------------
 
 * [45% to 55% keyboard layout designs](XTK.md) — my initial designs
 * [Sub-30% keyboard layout designs with Enigma layout](Painigma27.md)

@@ -8,7 +8,7 @@
 * [TKL-based keyboard layout designs with "missing" rows or IBM-style cursor cross](XTKL.md)
 * [minimal kinda-staggered 40% keyboard layout design](XTM.md)
 * [Thumbwing, a gamepad style mechanical keyboard layout with backside keys](Thumbwing.md)
-* [HHKB-style keyboard layout design with a dedicated cursor cross](HHKB-with-cursor-cross.md)
+* [HHKB-style keyboard layout designs with a dedicated cursor cross](HHKB-with-cursor-cross.md)
 * [70% Keyboard without modifiers](NoMod.md) — Why? Because I can! 😉
 
 

@@ -17,6 +17,8 @@ So tried to see how a keyboard layout would look like which
 incomproates all those constraints while leaving out those keys I
 don't need.
 
+Why? Because I can! 😉
+
 
 The Design
 ----------

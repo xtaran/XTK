@@ -19,7 +19,7 @@ cursor clusters), but that they differ in the overall width:
 
 Comparing them shows where they reduce width:
 
-* The MiniVan is closes to standard ANSI layout, especially with
+* The MiniVan is closest to standard ANSI layout, especially with
   regards to row offsets.
 
 * The UT47.2 is — except for the bottom row — very similar to the

@@ -7,7 +7,7 @@ cursor clusters), but that they differ in the overall width:
 
 * [Planck](https://olkb.com/planck) (4x12 ortholinear, no stagger; I
   do have its bigger brother, the 5x12
-  [Preonic](https://olkb.com/preonic): 12u
+  [Preonic](https://olkb.com/preonic)): 12u
 * [Zlant](https://www.1upkeyboards.com/shop/keyboard-kits/diy-40-kits/zlant-40-keyboard-kit/):
   12.75u (over all width; per-row width is 12u like a Planck)
 * [UT47.2](https://keyhive.xyz/shop/ut472-group-buy): 12.5u

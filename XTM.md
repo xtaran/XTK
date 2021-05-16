@@ -67,7 +67,7 @@ width compared to the MiniVan.
 
 So I end up with a 12.25u overall width of a keyboard which is very
 similar to the UT47.2 and MiniVan while still reducing the overall
-width by 0.75 respectively 0.25u — and only being 0.25u away from the
+width by 0.25 respectively 0.5u — and only being 0.25u away from the
 12u BM43a while having two more keys and an IMHO much more comfortable
 non-standard stagger.
 

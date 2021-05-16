@@ -71,12 +71,11 @@ width by 0.25 respectively 0.5u — and only being 0.25u away from the
 12u BM43a while having two more keys and an IMHO much more comfortable
 non-standard stagger.
 
-
-(The JSON layout files are meant for usage with the [Keyboard Layout
-Editor](http://www.keyboard-layout-editor.com/) and compatible tools.)
-
 ### XTM 45
 
 ![XTM 45](Images/XTM-45.png)
 
 [layout in JSON format](Layouts/XTM-45.json)
+
+(The JSON layout files are meant for usage with the [Keyboard Layout
+Editor](http://www.keyboard-layout-editor.com/) and compatible tools.)

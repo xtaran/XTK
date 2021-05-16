@@ -77,5 +77,5 @@ non-standard stagger.
 
 [layout in JSON format](Layouts/XTM-45.json)
 
-(The JSON layout files are meant for usage with the [Keyboard Layout
+(The JSON layout file is meant for usage with the [Keyboard Layout
 Editor](http://www.keyboard-layout-editor.com/) and compatible tools.)

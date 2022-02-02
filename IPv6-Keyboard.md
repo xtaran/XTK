@@ -1,8 +1,8 @@
 The IPv6 Keyboards
 ==================
 
-I wondered if the [IPv6Buddy Keypad](https://www.ipv6buddy.com/) could
-be integrated as number pad into a full size keyboard.
+I wondered if the [IPv6Buddy Keypad](https://www.ipv6buddy.com/)
+layout could be integrated as number pad into a full size keyboard.
 
 To not having to add a blocker between the two top most rows I
 remembered [Cherry's

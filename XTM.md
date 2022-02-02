@@ -5,8 +5,9 @@ At some point I noticed at least most of my 40% keyboards have more
 less the same layout (probably because I like 40% keyboards with
 cursor clusters), but that they differ in the overall width:
 
-* [Planck](https://olkb.com/planck) (don't have one; ortholinear, no
-  stagger): 12u
+* [Planck](https://olkb.com/planck) (4x12 ortholinear, no stagger; I
+  do have its bigger brother, the 5x12
+  [Preonic](https://olkb.com/preonic)): 12u
 * [Zlant](https://www.1upkeyboards.com/shop/keyboard-kits/diy-40-kits/zlant-40-keyboard-kit/):
   12.75u (over all width; per-row width is 12u like a Planck)
 * [UT47.2](https://keyhive.xyz/shop/ut472-group-buy): 12.5u
@@ -18,7 +19,7 @@ cursor clusters), but that they differ in the overall width:
 
 Comparing them shows where they reduce width:
 
-* The MiniVan is closes to standard ANSI layout, especially with
+* The MiniVan is closest to standard ANSI layout, especially with
   regards to row offsets.
 
 * The UT47.2 is — except for the bottom row — very similar to the
@@ -66,16 +67,15 @@ width compared to the MiniVan.
 
 So I end up with a 12.25u overall width of a keyboard which is very
 similar to the UT47.2 and MiniVan while still reducing the overall
-width by 0.75 respectively 0.25u — and only being 0.25u away from the
+width by 0.25 respectively 0.5u — and only being 0.25u away from the
 12u BM43a while having two more keys and an IMHO much more comfortable
 non-standard stagger.
-
-
-(The JSON layout files are meant for usage with the [Keyboard Layout
-Editor](http://www.keyboard-layout-editor.com/) and compatible tools.)
 
 ### XTM 45
 
 ![XTM 45](Images/XTM-45.png)
 
 [layout in JSON format](Layouts/XTM-45.json)
+
+(The JSON layout file is meant for usage with the [Keyboard Layout
+Editor](http://www.keyboard-layout-editor.com/) and compatible tools.)

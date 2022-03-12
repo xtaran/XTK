@@ -10,7 +10,7 @@ cursor block instead.
 I quickly wondered two things about its creative layout:
 
 * Shouldn't there be a Fn key right of the Up key instead of a
-  blocker?
+  blocker? (I hate right-side blockers on R4.)
   
 * What about an [1800 style
   layout](https://www.cherry.de/cherry-g80-1800.html) with the

@@ -25,7 +25,7 @@ The Layout Designs
 * [Thumbwing, a gamepad style mechanical keyboard layout with backside keys](Thumbwing.md)
 * [HHKB-style keyboard layout designs with a dedicated cursor cross](HHKB-with-cursor-cross.md)
 * [70% Keyboard without modifiers](NoMod.md) — Why? Because I can! 😉
-* [The IPv6 Keyboards](IPv6-Keyboard.md)
+* [The IPv6 Keyboard](IPv6-Keyboard.md)
 * [A Sperno59 Derviative in 1800 Style](XTerno1800.md)
 
 [Keyboard Resources](Resources.md)

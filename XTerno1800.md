@@ -1,4 +1,4 @@
-A Sperno59 Derviative in 1800 Style
+A Sperno59 Derivative in 1800 Style
 ===================================
 
 Via the [Swiss Mechanical Keyboard Enthusiast's Telegram

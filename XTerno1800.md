@@ -14,7 +14,7 @@ I quickly wondered two things about its creative layout:
   
 * What about an [1800 style
   layout](https://www.cherry.de/cherry-g80-1800.html) with the
-  Sperno59's layout as main block.
+  Sperno59's layout as main block?
 
 The result can be seen here.
 

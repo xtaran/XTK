@@ -26,6 +26,3 @@ The Design
 ![XTerno1800](Images/xterno1800.png)
 
 [layout as JSON file for the KLE](Layouts/xterno1800.json)
-
-Basically a full size keyboard with a IPv6-labelled G80-1800 number
-pad.

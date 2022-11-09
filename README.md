@@ -1,5 +1,5 @@
-27% to 70% Keyboard Layout Designs
-==================================
+XTaran's Keyboard Layout Designs
+================================
 
 ![XTHH 48 rendered with GMK Terminal](Images/XTHH-48.GMK-Terminal.png)
 
@@ -7,7 +7,8 @@ Preface
 -------
 
 This repository contains more or less all my designs, thoughts,
-braindumps and crazy ideas around keyboard layout design.
+braindumps and crazy ideas around keyboard layout design. They range
+from 27% keyboards over 70% and TKL to 1800-style layouts.
 ("XTK" is short for "XTaran's Keyboard(s)")
 
 The layouts were usually created in the online [Keyboard Layout
